@@ -6,7 +6,7 @@
 
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    background-image: url('./AlvendaBackground.png');
+    background-image: url('AlvendaBackground.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -258,4 +258,5 @@ body {
     background: #6A3A62;
     color: #fff; /* Ensure text is readable on purple */
     box-shadow: 0 4px 15px rgba(224, 184, 82, 0.2);
+
 }
